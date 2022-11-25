@@ -1,0 +1,27 @@
+{
+    "1789-Washington": {
+        "collection": "inaugural",
+        "fid": "1789-Washington",
+        "filename": "corpus/1789-Washington.txt"
+    },
+    "1793-Washington": {
+        "collection": "inaugural",
+        "fid": "1793-Washington",
+        "filename": "corpus/1793-Washington.txt"
+    },
+    "austen-sense": {
+        "collection": "gutenberg",
+        "fid": "austen-sense",
+        "filename": "corpus/austen-sense.txt"
+    },
+     "1797-Adams": {
+        "collection": "inaugural",
+        "fid": "1797-Adams",
+        "filename": "corpus/1797-Adams.txt"
+    },
+     "melville-moby_dick": {
+        "collection": "gutenberg",
+        "fid": "melville-moby_dick",
+        "filename": "corpus/melville-moby_dick.txt"
+    }
+}
