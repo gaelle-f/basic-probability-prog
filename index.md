@@ -447,4 +447,4 @@ Have a good look at the constraints we **noted earlier**:
 
 - If you need help testing "winning" the game, this solution in `win.txt` (in the `data` folder) (spoiler alert!) may come in handy.
 
-Assignment based on work of David J. Malan of Harvard University and licensed under http://creativecommons.org/licenses/by-nc-sa/3.0
+#### Assignment based on work of David J. Malan of Harvard University and licensed under http://creativecommons.org/licenses/by-nc-sa/3.0
