@@ -443,6 +443,6 @@ Have a good look at the constraints we **noted earlier**:
 
 - A hard constraint in this program is that the `Adventure` class may not `print` anything. And in return, the `__main__` part may, aside from printing things, only call methods in the `Adventure` class. It may not ever directly access methods and/or attributes from the `Room class`!
 
-- Remember that only a few things work with the Tiny map. You should normally test the game using the Crowther map. `check50` will certainly do so!
+- Remember that only a few things work with the Tiny map. You should normally test the game using the Crowther map. 
 
 - If you need help testing "winning" the game, this solution in `win.txt` (in the `data` folder) (spoiler alert!) may come in handy.
