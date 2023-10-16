@@ -73,13 +73,13 @@ Implement an object-oriented version of Crowther's Adventure game using the clas
     * forced movements
     * managing items and inventory
 
-Before you start, unzip `adventure` and make sure that `adventure.py` and the folder `data` are all saved in the same folder.
+Before you start, unzip `adventure` and make sure that it contains `adventure.py`, three data files and one text file `.txt`. 
 
 ## Understanding
 
 ### `data/`
 
-The `data` directory contains data files with which you can create two versions of adventure. `TinyAdv.dat` is the smallest adventure game, consisting of 4 rooms. Here are its contents in full:
+The directory contains several data files (the files with the extension `.dat`) with which you can create different versions of adventure. `TinyAdv.dat` is the smallest adventure game, consisting of 4 rooms. Here are its contents in full:
 
     1	Outside building	You are standing at the end of a road before a small brick building.  A small stream flows out of the building and down a gully to the south.  A road runs up a small hill to the west.
     2	End of road	You are at the end of a road at the top of a small hill. You can see a small building in the valley to the east.
@@ -445,6 +445,6 @@ Have a good look at the constraints we **noted earlier**:
 
 - Remember that only a few things work with the Tiny map. You should normally test the game using the Crowther map. 
 
-- If you need help testing "winning" the game, this solution in `win.txt` (in the `data` folder) (spoiler alert!) may come in handy.
+- If you need help testing "winning" the game, this solution in `win.txt` (spoiler alert!) may come in handy.
 
 #### Assignment based on work of David J. Malan of Harvard University and licensed under http://creativecommons.org/licenses/by-nc-sa/3.0
